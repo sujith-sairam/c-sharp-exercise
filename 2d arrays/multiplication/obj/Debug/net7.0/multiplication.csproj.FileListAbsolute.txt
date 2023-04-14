@@ -1,0 +1,15 @@
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\bin\Debug\net7.0\multiplication.exe
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\bin\Debug\net7.0\multiplication.deps.json
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\bin\Debug\net7.0\multiplication.runtimeconfig.json
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\bin\Debug\net7.0\multiplication.dll
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\bin\Debug\net7.0\multiplication.pdb
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\obj\Debug\net7.0\multiplication.csproj.AssemblyReference.cache
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\obj\Debug\net7.0\multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\obj\Debug\net7.0\multiplication.AssemblyInfoInputs.cache
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\obj\Debug\net7.0\multiplication.AssemblyInfo.cs
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\obj\Debug\net7.0\multiplication.csproj.CoreCompileInputs.cache
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\obj\Debug\net7.0\multiplication.dll
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\obj\Debug\net7.0\refint\multiplication.dll
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\obj\Debug\net7.0\multiplication.pdb
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\obj\Debug\net7.0\multiplication.genruntimeconfig.cache
+C:\Users\jai aravind\Desktop\2d arrays\multiplication\obj\Debug\net7.0\ref\multiplication.dll

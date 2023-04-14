@@ -1,0 +1,15 @@
+C:\Users\jai aravind\Desktop\2d arrays\transpose\obj\Debug\net7.0\transpose.csproj.AssemblyReference.cache
+C:\Users\jai aravind\Desktop\2d arrays\transpose\obj\Debug\net7.0\transpose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jai aravind\Desktop\2d arrays\transpose\obj\Debug\net7.0\transpose.AssemblyInfoInputs.cache
+C:\Users\jai aravind\Desktop\2d arrays\transpose\obj\Debug\net7.0\transpose.AssemblyInfo.cs
+C:\Users\jai aravind\Desktop\2d arrays\transpose\obj\Debug\net7.0\transpose.csproj.CoreCompileInputs.cache
+C:\Users\jai aravind\Desktop\2d arrays\transpose\bin\Debug\net7.0\transpose.exe
+C:\Users\jai aravind\Desktop\2d arrays\transpose\bin\Debug\net7.0\transpose.deps.json
+C:\Users\jai aravind\Desktop\2d arrays\transpose\bin\Debug\net7.0\transpose.runtimeconfig.json
+C:\Users\jai aravind\Desktop\2d arrays\transpose\bin\Debug\net7.0\transpose.dll
+C:\Users\jai aravind\Desktop\2d arrays\transpose\bin\Debug\net7.0\transpose.pdb
+C:\Users\jai aravind\Desktop\2d arrays\transpose\obj\Debug\net7.0\transpose.dll
+C:\Users\jai aravind\Desktop\2d arrays\transpose\obj\Debug\net7.0\refint\transpose.dll
+C:\Users\jai aravind\Desktop\2d arrays\transpose\obj\Debug\net7.0\transpose.pdb
+C:\Users\jai aravind\Desktop\2d arrays\transpose\obj\Debug\net7.0\transpose.genruntimeconfig.cache
+C:\Users\jai aravind\Desktop\2d arrays\transpose\obj\Debug\net7.0\ref\transpose.dll
