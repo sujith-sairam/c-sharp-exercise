@@ -1,0 +1,15 @@
+D:\Desktop\arrays\unique_elements\obj\Debug\net8.0\unique_elements.csproj.AssemblyReference.cache
+D:\Desktop\arrays\unique_elements\obj\Debug\net8.0\unique_elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\arrays\unique_elements\obj\Debug\net8.0\unique_elements.AssemblyInfoInputs.cache
+D:\Desktop\arrays\unique_elements\obj\Debug\net8.0\unique_elements.AssemblyInfo.cs
+D:\Desktop\arrays\unique_elements\obj\Debug\net8.0\unique_elements.csproj.CoreCompileInputs.cache
+D:\Desktop\arrays\unique_elements\bin\Debug\net8.0\unique_elements.exe
+D:\Desktop\arrays\unique_elements\bin\Debug\net8.0\unique_elements.deps.json
+D:\Desktop\arrays\unique_elements\bin\Debug\net8.0\unique_elements.runtimeconfig.json
+D:\Desktop\arrays\unique_elements\bin\Debug\net8.0\unique_elements.dll
+D:\Desktop\arrays\unique_elements\bin\Debug\net8.0\unique_elements.pdb
+D:\Desktop\arrays\unique_elements\obj\Debug\net8.0\unique_elements.dll
+D:\Desktop\arrays\unique_elements\obj\Debug\net8.0\refint\unique_elements.dll
+D:\Desktop\arrays\unique_elements\obj\Debug\net8.0\unique_elements.pdb
+D:\Desktop\arrays\unique_elements\obj\Debug\net8.0\unique_elements.genruntimeconfig.cache
+D:\Desktop\arrays\unique_elements\obj\Debug\net8.0\ref\unique_elements.dll

@@ -1,0 +1,15 @@
+D:\Desktop\branching\xycoordinate\bin\Debug\net8.0\xycoordinate.exe
+D:\Desktop\branching\xycoordinate\bin\Debug\net8.0\xycoordinate.deps.json
+D:\Desktop\branching\xycoordinate\bin\Debug\net8.0\xycoordinate.runtimeconfig.json
+D:\Desktop\branching\xycoordinate\bin\Debug\net8.0\xycoordinate.dll
+D:\Desktop\branching\xycoordinate\bin\Debug\net8.0\xycoordinate.pdb
+D:\Desktop\branching\xycoordinate\obj\Debug\net8.0\xycoordinate.csproj.AssemblyReference.cache
+D:\Desktop\branching\xycoordinate\obj\Debug\net8.0\xycoordinate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\branching\xycoordinate\obj\Debug\net8.0\xycoordinate.AssemblyInfoInputs.cache
+D:\Desktop\branching\xycoordinate\obj\Debug\net8.0\xycoordinate.AssemblyInfo.cs
+D:\Desktop\branching\xycoordinate\obj\Debug\net8.0\xycoordinate.csproj.CoreCompileInputs.cache
+D:\Desktop\branching\xycoordinate\obj\Debug\net8.0\xycoordinate.dll
+D:\Desktop\branching\xycoordinate\obj\Debug\net8.0\refint\xycoordinate.dll
+D:\Desktop\branching\xycoordinate\obj\Debug\net8.0\xycoordinate.pdb
+D:\Desktop\branching\xycoordinate\obj\Debug\net8.0\xycoordinate.genruntimeconfig.cache
+D:\Desktop\branching\xycoordinate\obj\Debug\net8.0\ref\xycoordinate.dll

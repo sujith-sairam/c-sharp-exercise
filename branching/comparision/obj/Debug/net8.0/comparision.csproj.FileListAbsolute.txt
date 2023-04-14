@@ -1,0 +1,15 @@
+D:\Desktop\branching\comparision\bin\Debug\net8.0\comparision.exe
+D:\Desktop\branching\comparision\bin\Debug\net8.0\comparision.deps.json
+D:\Desktop\branching\comparision\bin\Debug\net8.0\comparision.runtimeconfig.json
+D:\Desktop\branching\comparision\bin\Debug\net8.0\comparision.dll
+D:\Desktop\branching\comparision\bin\Debug\net8.0\comparision.pdb
+D:\Desktop\branching\comparision\obj\Debug\net8.0\comparision.csproj.AssemblyReference.cache
+D:\Desktop\branching\comparision\obj\Debug\net8.0\comparision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\branching\comparision\obj\Debug\net8.0\comparision.AssemblyInfoInputs.cache
+D:\Desktop\branching\comparision\obj\Debug\net8.0\comparision.AssemblyInfo.cs
+D:\Desktop\branching\comparision\obj\Debug\net8.0\comparision.csproj.CoreCompileInputs.cache
+D:\Desktop\branching\comparision\obj\Debug\net8.0\comparision.dll
+D:\Desktop\branching\comparision\obj\Debug\net8.0\refint\comparision.dll
+D:\Desktop\branching\comparision\obj\Debug\net8.0\comparision.pdb
+D:\Desktop\branching\comparision\obj\Debug\net8.0\comparision.genruntimeconfig.cache
+D:\Desktop\branching\comparision\obj\Debug\net8.0\ref\comparision.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "duplicate_count/1.0.0": {
+        "runtime": {
+          "duplicate_count.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "duplicate_count/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

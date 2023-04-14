@@ -1,0 +1,30 @@
+D:\Desktop\branching\course\bin\Debug\net8.0\course.exe
+D:\Desktop\branching\course\bin\Debug\net8.0\course.deps.json
+D:\Desktop\branching\course\bin\Debug\net8.0\course.runtimeconfig.json
+D:\Desktop\branching\course\bin\Debug\net8.0\course.dll
+D:\Desktop\branching\course\bin\Debug\net8.0\course.pdb
+D:\Desktop\branching\course\obj\Debug\net8.0\course.csproj.AssemblyReference.cache
+D:\Desktop\branching\course\obj\Debug\net8.0\course.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\branching\course\obj\Debug\net8.0\course.AssemblyInfoInputs.cache
+D:\Desktop\branching\course\obj\Debug\net8.0\course.AssemblyInfo.cs
+D:\Desktop\branching\course\obj\Debug\net8.0\course.csproj.CoreCompileInputs.cache
+D:\Desktop\branching\course\obj\Debug\net8.0\course.dll
+D:\Desktop\branching\course\obj\Debug\net8.0\refint\course.dll
+D:\Desktop\branching\course\obj\Debug\net8.0\course.pdb
+D:\Desktop\branching\course\obj\Debug\net8.0\course.genruntimeconfig.cache
+D:\Desktop\branching\course\obj\Debug\net8.0\ref\course.dll
+D:\Desktop\looping\sum of naturals\obj\Debug\net8.0\course.csproj.AssemblyReference.cache
+D:\Desktop\looping\sum of naturals\obj\Debug\net8.0\course.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\looping\sum of naturals\obj\Debug\net8.0\course.AssemblyInfoInputs.cache
+D:\Desktop\looping\sum of naturals\obj\Debug\net8.0\course.AssemblyInfo.cs
+D:\Desktop\looping\sum of naturals\obj\Debug\net8.0\course.csproj.CoreCompileInputs.cache
+D:\Desktop\looping\sum of naturals\obj\Debug\net8.0\course.dll
+D:\Desktop\looping\sum of naturals\obj\Debug\net8.0\refint\course.dll
+D:\Desktop\looping\sum of naturals\obj\Debug\net8.0\course.pdb
+D:\Desktop\looping\sum of naturals\bin\Debug\net8.0\course.exe
+D:\Desktop\looping\sum of naturals\bin\Debug\net8.0\course.deps.json
+D:\Desktop\looping\sum of naturals\bin\Debug\net8.0\course.runtimeconfig.json
+D:\Desktop\looping\sum of naturals\bin\Debug\net8.0\course.dll
+D:\Desktop\looping\sum of naturals\bin\Debug\net8.0\course.pdb
+D:\Desktop\looping\sum of naturals\obj\Debug\net8.0\course.genruntimeconfig.cache
+D:\Desktop\looping\sum of naturals\obj\Debug\net8.0\ref\course.dll

@@ -1,0 +1,15 @@
+C:\Users\jai aravind\Desktop\arrays\merge_array\bin\Debug\net7.0\merge_array.exe
+C:\Users\jai aravind\Desktop\arrays\merge_array\bin\Debug\net7.0\merge_array.deps.json
+C:\Users\jai aravind\Desktop\arrays\merge_array\bin\Debug\net7.0\merge_array.runtimeconfig.json
+C:\Users\jai aravind\Desktop\arrays\merge_array\bin\Debug\net7.0\merge_array.dll
+C:\Users\jai aravind\Desktop\arrays\merge_array\bin\Debug\net7.0\merge_array.pdb
+C:\Users\jai aravind\Desktop\arrays\merge_array\obj\Debug\net7.0\merge_array.csproj.AssemblyReference.cache
+C:\Users\jai aravind\Desktop\arrays\merge_array\obj\Debug\net7.0\merge_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jai aravind\Desktop\arrays\merge_array\obj\Debug\net7.0\merge_array.AssemblyInfoInputs.cache
+C:\Users\jai aravind\Desktop\arrays\merge_array\obj\Debug\net7.0\merge_array.AssemblyInfo.cs
+C:\Users\jai aravind\Desktop\arrays\merge_array\obj\Debug\net7.0\merge_array.csproj.CoreCompileInputs.cache
+C:\Users\jai aravind\Desktop\arrays\merge_array\obj\Debug\net7.0\merge_array.dll
+C:\Users\jai aravind\Desktop\arrays\merge_array\obj\Debug\net7.0\refint\merge_array.dll
+C:\Users\jai aravind\Desktop\arrays\merge_array\obj\Debug\net7.0\merge_array.pdb
+C:\Users\jai aravind\Desktop\arrays\merge_array\obj\Debug\net7.0\merge_array.genruntimeconfig.cache
+C:\Users\jai aravind\Desktop\arrays\merge_array\obj\Debug\net7.0\ref\merge_array.dll

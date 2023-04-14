@@ -1,0 +1,15 @@
+D:\Desktop\branching\vote\bin\Debug\net8.0\vote.exe
+D:\Desktop\branching\vote\bin\Debug\net8.0\vote.deps.json
+D:\Desktop\branching\vote\bin\Debug\net8.0\vote.runtimeconfig.json
+D:\Desktop\branching\vote\bin\Debug\net8.0\vote.dll
+D:\Desktop\branching\vote\bin\Debug\net8.0\vote.pdb
+D:\Desktop\branching\vote\obj\Debug\net8.0\vote.csproj.AssemblyReference.cache
+D:\Desktop\branching\vote\obj\Debug\net8.0\vote.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\branching\vote\obj\Debug\net8.0\vote.AssemblyInfoInputs.cache
+D:\Desktop\branching\vote\obj\Debug\net8.0\vote.AssemblyInfo.cs
+D:\Desktop\branching\vote\obj\Debug\net8.0\vote.csproj.CoreCompileInputs.cache
+D:\Desktop\branching\vote\obj\Debug\net8.0\vote.dll
+D:\Desktop\branching\vote\obj\Debug\net8.0\refint\vote.dll
+D:\Desktop\branching\vote\obj\Debug\net8.0\vote.pdb
+D:\Desktop\branching\vote\obj\Debug\net8.0\vote.genruntimeconfig.cache
+D:\Desktop\branching\vote\obj\Debug\net8.0\ref\vote.dll

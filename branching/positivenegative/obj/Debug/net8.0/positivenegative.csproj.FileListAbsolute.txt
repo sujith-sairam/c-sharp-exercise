@@ -1,0 +1,15 @@
+D:\Desktop\branching\positivenegative\bin\Debug\net8.0\positivenegative.exe
+D:\Desktop\branching\positivenegative\bin\Debug\net8.0\positivenegative.deps.json
+D:\Desktop\branching\positivenegative\bin\Debug\net8.0\positivenegative.runtimeconfig.json
+D:\Desktop\branching\positivenegative\bin\Debug\net8.0\positivenegative.dll
+D:\Desktop\branching\positivenegative\bin\Debug\net8.0\positivenegative.pdb
+D:\Desktop\branching\positivenegative\obj\Debug\net8.0\positivenegative.csproj.AssemblyReference.cache
+D:\Desktop\branching\positivenegative\obj\Debug\net8.0\positivenegative.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\branching\positivenegative\obj\Debug\net8.0\positivenegative.AssemblyInfoInputs.cache
+D:\Desktop\branching\positivenegative\obj\Debug\net8.0\positivenegative.AssemblyInfo.cs
+D:\Desktop\branching\positivenegative\obj\Debug\net8.0\positivenegative.csproj.CoreCompileInputs.cache
+D:\Desktop\branching\positivenegative\obj\Debug\net8.0\positivenegative.dll
+D:\Desktop\branching\positivenegative\obj\Debug\net8.0\refint\positivenegative.dll
+D:\Desktop\branching\positivenegative\obj\Debug\net8.0\positivenegative.pdb
+D:\Desktop\branching\positivenegative\obj\Debug\net8.0\positivenegative.genruntimeconfig.cache
+D:\Desktop\branching\positivenegative\obj\Debug\net8.0\ref\positivenegative.dll

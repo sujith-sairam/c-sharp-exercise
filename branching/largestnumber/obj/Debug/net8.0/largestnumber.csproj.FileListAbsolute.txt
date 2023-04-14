@@ -1,0 +1,15 @@
+D:\Desktop\branching\largestnumber\bin\Debug\net8.0\largestnumber.exe
+D:\Desktop\branching\largestnumber\bin\Debug\net8.0\largestnumber.deps.json
+D:\Desktop\branching\largestnumber\bin\Debug\net8.0\largestnumber.runtimeconfig.json
+D:\Desktop\branching\largestnumber\bin\Debug\net8.0\largestnumber.dll
+D:\Desktop\branching\largestnumber\bin\Debug\net8.0\largestnumber.pdb
+D:\Desktop\branching\largestnumber\obj\Debug\net8.0\largestnumber.csproj.AssemblyReference.cache
+D:\Desktop\branching\largestnumber\obj\Debug\net8.0\largestnumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\branching\largestnumber\obj\Debug\net8.0\largestnumber.AssemblyInfoInputs.cache
+D:\Desktop\branching\largestnumber\obj\Debug\net8.0\largestnumber.AssemblyInfo.cs
+D:\Desktop\branching\largestnumber\obj\Debug\net8.0\largestnumber.csproj.CoreCompileInputs.cache
+D:\Desktop\branching\largestnumber\obj\Debug\net8.0\largestnumber.dll
+D:\Desktop\branching\largestnumber\obj\Debug\net8.0\refint\largestnumber.dll
+D:\Desktop\branching\largestnumber\obj\Debug\net8.0\largestnumber.pdb
+D:\Desktop\branching\largestnumber\obj\Debug\net8.0\largestnumber.genruntimeconfig.cache
+D:\Desktop\branching\largestnumber\obj\Debug\net8.0\ref\largestnumber.dll

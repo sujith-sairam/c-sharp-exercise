@@ -1,0 +1,30 @@
+D:\Desktop\branching\leapyear\bin\Debug\net8.0\leapyear.exe
+D:\Desktop\branching\leapyear\bin\Debug\net8.0\leapyear.deps.json
+D:\Desktop\branching\leapyear\bin\Debug\net8.0\leapyear.runtimeconfig.json
+D:\Desktop\branching\leapyear\bin\Debug\net8.0\leapyear.dll
+D:\Desktop\branching\leapyear\bin\Debug\net8.0\leapyear.pdb
+D:\Desktop\branching\leapyear\obj\Debug\net8.0\leapyear.csproj.AssemblyReference.cache
+D:\Desktop\branching\leapyear\obj\Debug\net8.0\leapyear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\branching\leapyear\obj\Debug\net8.0\leapyear.AssemblyInfoInputs.cache
+D:\Desktop\branching\leapyear\obj\Debug\net8.0\leapyear.AssemblyInfo.cs
+D:\Desktop\branching\leapyear\obj\Debug\net8.0\leapyear.csproj.CoreCompileInputs.cache
+D:\Desktop\branching\leapyear\obj\Debug\net8.0\leapyear.dll
+D:\Desktop\branching\leapyear\obj\Debug\net8.0\refint\leapyear.dll
+D:\Desktop\branching\leapyear\obj\Debug\net8.0\leapyear.pdb
+D:\Desktop\branching\leapyear\obj\Debug\net8.0\leapyear.genruntimeconfig.cache
+D:\Desktop\branching\leapyear\obj\Debug\net8.0\ref\leapyear.dll
+D:\Desktop\looping\sum of random numbers\bin\Debug\net8.0\leapyear.exe
+D:\Desktop\looping\sum of random numbers\bin\Debug\net8.0\leapyear.deps.json
+D:\Desktop\looping\sum of random numbers\bin\Debug\net8.0\leapyear.runtimeconfig.json
+D:\Desktop\looping\sum of random numbers\bin\Debug\net8.0\leapyear.dll
+D:\Desktop\looping\sum of random numbers\bin\Debug\net8.0\leapyear.pdb
+D:\Desktop\looping\sum of random numbers\obj\Debug\net8.0\leapyear.csproj.AssemblyReference.cache
+D:\Desktop\looping\sum of random numbers\obj\Debug\net8.0\leapyear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\looping\sum of random numbers\obj\Debug\net8.0\leapyear.AssemblyInfoInputs.cache
+D:\Desktop\looping\sum of random numbers\obj\Debug\net8.0\leapyear.AssemblyInfo.cs
+D:\Desktop\looping\sum of random numbers\obj\Debug\net8.0\leapyear.csproj.CoreCompileInputs.cache
+D:\Desktop\looping\sum of random numbers\obj\Debug\net8.0\leapyear.dll
+D:\Desktop\looping\sum of random numbers\obj\Debug\net8.0\refint\leapyear.dll
+D:\Desktop\looping\sum of random numbers\obj\Debug\net8.0\leapyear.pdb
+D:\Desktop\looping\sum of random numbers\obj\Debug\net8.0\leapyear.genruntimeconfig.cache
+D:\Desktop\looping\sum of random numbers\obj\Debug\net8.0\ref\leapyear.dll

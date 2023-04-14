@@ -1,0 +1,15 @@
+D:\Desktop\arrays\sum_of_elements\obj\Debug\net8.0\sum_of_elements.csproj.AssemblyReference.cache
+D:\Desktop\arrays\sum_of_elements\obj\Debug\net8.0\sum_of_elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\arrays\sum_of_elements\obj\Debug\net8.0\sum_of_elements.AssemblyInfoInputs.cache
+D:\Desktop\arrays\sum_of_elements\obj\Debug\net8.0\sum_of_elements.AssemblyInfo.cs
+D:\Desktop\arrays\sum_of_elements\obj\Debug\net8.0\sum_of_elements.csproj.CoreCompileInputs.cache
+D:\Desktop\arrays\sum_of_elements\bin\Debug\net8.0\sum_of_elements.exe
+D:\Desktop\arrays\sum_of_elements\bin\Debug\net8.0\sum_of_elements.deps.json
+D:\Desktop\arrays\sum_of_elements\bin\Debug\net8.0\sum_of_elements.runtimeconfig.json
+D:\Desktop\arrays\sum_of_elements\bin\Debug\net8.0\sum_of_elements.dll
+D:\Desktop\arrays\sum_of_elements\bin\Debug\net8.0\sum_of_elements.pdb
+D:\Desktop\arrays\sum_of_elements\obj\Debug\net8.0\sum_of_elements.dll
+D:\Desktop\arrays\sum_of_elements\obj\Debug\net8.0\refint\sum_of_elements.dll
+D:\Desktop\arrays\sum_of_elements\obj\Debug\net8.0\sum_of_elements.pdb
+D:\Desktop\arrays\sum_of_elements\obj\Debug\net8.0\sum_of_elements.genruntimeconfig.cache
+D:\Desktop\arrays\sum_of_elements\obj\Debug\net8.0\ref\sum_of_elements.dll

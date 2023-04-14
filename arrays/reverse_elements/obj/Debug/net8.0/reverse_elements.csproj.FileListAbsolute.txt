@@ -1,0 +1,15 @@
+D:\Desktop\arrays\reverse_elements\obj\Debug\net8.0\reverse_elements.csproj.AssemblyReference.cache
+D:\Desktop\arrays\reverse_elements\obj\Debug\net8.0\reverse_elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\arrays\reverse_elements\obj\Debug\net8.0\reverse_elements.AssemblyInfoInputs.cache
+D:\Desktop\arrays\reverse_elements\obj\Debug\net8.0\reverse_elements.AssemblyInfo.cs
+D:\Desktop\arrays\reverse_elements\obj\Debug\net8.0\reverse_elements.csproj.CoreCompileInputs.cache
+D:\Desktop\arrays\reverse_elements\bin\Debug\net8.0\reverse_elements.exe
+D:\Desktop\arrays\reverse_elements\bin\Debug\net8.0\reverse_elements.deps.json
+D:\Desktop\arrays\reverse_elements\bin\Debug\net8.0\reverse_elements.runtimeconfig.json
+D:\Desktop\arrays\reverse_elements\bin\Debug\net8.0\reverse_elements.dll
+D:\Desktop\arrays\reverse_elements\bin\Debug\net8.0\reverse_elements.pdb
+D:\Desktop\arrays\reverse_elements\obj\Debug\net8.0\reverse_elements.dll
+D:\Desktop\arrays\reverse_elements\obj\Debug\net8.0\refint\reverse_elements.dll
+D:\Desktop\arrays\reverse_elements\obj\Debug\net8.0\reverse_elements.pdb
+D:\Desktop\arrays\reverse_elements\obj\Debug\net8.0\reverse_elements.genruntimeconfig.cache
+D:\Desktop\arrays\reverse_elements\obj\Debug\net8.0\ref\reverse_elements.dll

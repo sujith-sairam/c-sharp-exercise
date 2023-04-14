@@ -1,0 +1,15 @@
+D:\Desktop\arrays\duplicate_count\bin\Debug\net8.0\duplicate_count.exe
+D:\Desktop\arrays\duplicate_count\bin\Debug\net8.0\duplicate_count.deps.json
+D:\Desktop\arrays\duplicate_count\bin\Debug\net8.0\duplicate_count.runtimeconfig.json
+D:\Desktop\arrays\duplicate_count\bin\Debug\net8.0\duplicate_count.dll
+D:\Desktop\arrays\duplicate_count\bin\Debug\net8.0\duplicate_count.pdb
+D:\Desktop\arrays\duplicate_count\obj\Debug\net8.0\duplicate_count.csproj.AssemblyReference.cache
+D:\Desktop\arrays\duplicate_count\obj\Debug\net8.0\duplicate_count.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\arrays\duplicate_count\obj\Debug\net8.0\duplicate_count.AssemblyInfoInputs.cache
+D:\Desktop\arrays\duplicate_count\obj\Debug\net8.0\duplicate_count.AssemblyInfo.cs
+D:\Desktop\arrays\duplicate_count\obj\Debug\net8.0\duplicate_count.csproj.CoreCompileInputs.cache
+D:\Desktop\arrays\duplicate_count\obj\Debug\net8.0\duplicate_count.dll
+D:\Desktop\arrays\duplicate_count\obj\Debug\net8.0\refint\duplicate_count.dll
+D:\Desktop\arrays\duplicate_count\obj\Debug\net8.0\duplicate_count.pdb
+D:\Desktop\arrays\duplicate_count\obj\Debug\net8.0\duplicate_count.genruntimeconfig.cache
+D:\Desktop\arrays\duplicate_count\obj\Debug\net8.0\ref\duplicate_count.dll
